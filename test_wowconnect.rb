@@ -1,0 +1,5 @@
+require 'test/unit'
+require 'wowconnect'
+require 'test_client'
+require 'test_server'
+require 'test_server_dry'
